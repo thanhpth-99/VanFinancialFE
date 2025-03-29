@@ -1,0 +1,35 @@
+{
+    "HeaderComponent": {
+        "button": {
+            "login": "Login"
+        }
+    },
+    "LoginComponent": {
+        "button": {
+            "login": "Login",
+            "cancel": "Cancel",
+            "regrister": "Regrister",
+            "forgotPassword": "Forgot password"
+        },
+        "label": {
+            "login": "Login",
+            "regrister": "Regrister",
+            "account": "Account",
+            "password": "Password"
+        },
+        "input": {
+            "account": "Enter account, email or phone number",
+            "password": "Enter password"
+        },
+        "message": {
+            "loginSuccess": {
+                "title": "Login success",
+                "content": "Welcome back"
+            },
+            "loginFail": {
+                "title": "Login fail",
+                "content": "Account or password is incorrect"
+            }
+        }
+    }
+}

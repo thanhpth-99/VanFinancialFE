@@ -1,0 +1,35 @@
+{
+    "HeaderComponent": {
+        "button": {
+            "login": "Đăng nhập"
+        }
+    },
+    "LoginComponent": {
+        "button": {
+            "login": "Đăng nhập",
+            "cancel": "Hủy",
+            "regrister": "Đăng ký",
+            "forgotPassword": "Quên mật khẩu"
+        },
+        "label": {
+            "login": "Đăng nhập",
+            "regrister": "Đăng ký",
+            "account": "Tài khoản",
+            "password": "Mật khẩu"
+        },
+        "input": {
+            "account": "Nhập tài khoản, email hoặc số điện thoại",
+            "password": "Nhập mật khẩu"
+        },
+        "message": {
+            "loginSuccess": {
+                "title": "Đăng nhập thành công",
+                "content": "Chào mừng trở lại"
+            },
+            "loginFail": {
+                "title": "Đăng nhập thất bại",
+                "content": "Tài khoản hoặc mật khẩu không chính xác"
+            }
+        }
+    }
+}
